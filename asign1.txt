@@ -1,0 +1,27 @@
+Assignment 1.1
+
+1. Various sources of Big Data
+	These are the major sources where large volumes od data has to be stored , organised and processed bases upon our requirements and needs:
+		* Finance
+		* Social Media
+		* Retails
+		* Government
+		* Health care
+		* Data Science
+
+2. 3 V's of Big data
+	
+	* Volume - which indiacates the size od data that is being stored in any froms. 
+	* Variety - it tells the type of data being stored such as structured, unstructured,semi-structured
+	* velocity - it indicates the speed at which data is being processed.
+
+
+3. Horizontal Scaling and Vertical Scaling
+
+	* Horizontal Scaling is a kind of provoking parallelism . Here instead of adding resources to a single system the resources are spread by adding multiple systems which improves the performance at higher rate. 
+	* Vertical Scaling : When any limitation occurs in the perfomance of a system additional resources are added to this single system improving the performace . But it is done at high cost. 
+
+4. Need and Working of Hadoop
+
+	* Need :The large data being generated cannot be processed by a single system. There are many disadvantages of scale up and scale down which are overcome through hadoop. So we are going for hadoop as it is a distributed file system and runs a number of applications simultaneously with high performace.
+	* Working : Hadoop is based on java language with its distributed file system environment(HDFS) that stores huge volume of data and mapreduce function which filters and sorts and performs analysis on the input data . 
